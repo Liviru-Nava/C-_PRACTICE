@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\C#_PRACTICE\\practice_1\\",
+  "WorkspaceRootPath": "D:\\C#_PRACTICE\\Practice_2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{298F1972-EF90-4803-95E3-612552E11077}|practice_1\\practice_1.csproj|d:\\c#_practice\\practice_1\\practice_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{298F1972-EF90-4803-95E3-612552E11077}|practice_1\\practice_1.csproj|solutionrelative:practice_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{785F19A6-5374-43CE-A891-ECE458159AF4}|Practice_2\\Practice_2.csproj|d:\\c#_practice\\practice_2\\practice_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{785F19A6-5374-43CE-A891-ECE458159AF4}|Practice_2\\Practice_2.csproj|solutionrelative:practice_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,13 +36,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\C#_PRACTICE\\practice_1\\practice_1\\Program.cs",
-              "RelativeDocumentMoniker": "practice_1\\Program.cs",
-              "ToolTip": "D:\\C#_PRACTICE\\practice_1\\practice_1\\Program.cs*",
-              "RelativeToolTip": "practice_1\\Program.cs*",
-              "ViewState": "AgIAABQAAAAAAAAAAAAcwCgAAAANAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\C#_PRACTICE\\Practice_2\\Practice_2\\Program.cs",
+              "RelativeDocumentMoniker": "Practice_2\\Program.cs",
+              "ToolTip": "D:\\C#_PRACTICE\\Practice_2\\Practice_2\\Program.cs",
+              "RelativeToolTip": "Practice_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T12:58:15.227Z",
+              "WhenOpened": "2024-12-22T13:28:11.501Z",
               "EditorCaption": ""
             }
           ]
