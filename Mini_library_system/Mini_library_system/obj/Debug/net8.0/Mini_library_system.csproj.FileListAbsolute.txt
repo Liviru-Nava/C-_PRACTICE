@@ -1,0 +1,15 @@
+D:\C#_PRACTICE\Mini_library_system\Mini_library_system\bin\Debug\net8.0\Mini_library_system.exe
+D:\C#_PRACTICE\Mini_library_system\Mini_library_system\bin\Debug\net8.0\Mini_library_system.deps.json
+D:\C#_PRACTICE\Mini_library_system\Mini_library_system\bin\Debug\net8.0\Mini_library_system.runtimeconfig.json
+D:\C#_PRACTICE\Mini_library_system\Mini_library_system\bin\Debug\net8.0\Mini_library_system.dll
+D:\C#_PRACTICE\Mini_library_system\Mini_library_system\bin\Debug\net8.0\Mini_library_system.pdb
+D:\C#_PRACTICE\Mini_library_system\Mini_library_system\obj\Debug\net8.0\Mini_library_system.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_PRACTICE\Mini_library_system\Mini_library_system\obj\Debug\net8.0\Mini_library_system.AssemblyInfoInputs.cache
+D:\C#_PRACTICE\Mini_library_system\Mini_library_system\obj\Debug\net8.0\Mini_library_system.AssemblyInfo.cs
+D:\C#_PRACTICE\Mini_library_system\Mini_library_system\obj\Debug\net8.0\Mini_library_system.csproj.CoreCompileInputs.cache
+D:\C#_PRACTICE\Mini_library_system\Mini_library_system\obj\Debug\net8.0\Mini_library_system.sourcelink.json
+D:\C#_PRACTICE\Mini_library_system\Mini_library_system\obj\Debug\net8.0\Mini_library_system.dll
+D:\C#_PRACTICE\Mini_library_system\Mini_library_system\obj\Debug\net8.0\refint\Mini_library_system.dll
+D:\C#_PRACTICE\Mini_library_system\Mini_library_system\obj\Debug\net8.0\Mini_library_system.pdb
+D:\C#_PRACTICE\Mini_library_system\Mini_library_system\obj\Debug\net8.0\Mini_library_system.genruntimeconfig.cache
+D:\C#_PRACTICE\Mini_library_system\Mini_library_system\obj\Debug\net8.0\ref\Mini_library_system.dll
